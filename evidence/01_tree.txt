@@ -1,0 +1,7 @@
+/home/shanzaanum7-hub/lab06-software
+├── evidence
+│   └── 01_tree.txt
+├── notes
+└── README.md
+
+3 directories, 2 files
