@@ -8,4 +8,4 @@ spec:
     image: nginx:1.27
     ports:
     - containerPort: 80
-    #edited by Shanza Anam
+# edited by Shanza Anam
