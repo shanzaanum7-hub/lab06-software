@@ -1,0 +1,6 @@
+Name         Version             Rev    Tracking         Publisher            Notes
+core         16-2.61.4-20260225  17292  latest/stable    canonical**          core
+core24       20260410            1643   latest/stable    canonical**          base
+hello-world  6.4                 29     latest/stable    canonical**          -
+hwctl        0.11.1              131    latest/stable/…  ce-certification-qa  -
+snapd        2.77.1              28254  latest/stable    canonical**          snapd
